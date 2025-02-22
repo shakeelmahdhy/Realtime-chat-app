@@ -4,9 +4,9 @@ A simple real-time chat application built with FastAPI and WebSockets.
 
 🚀 Live Demo
 
-🔗 https://shakeelmahdhy.github.io/Realtime-chat-app/
+🔗 Web App Link : https://shakeelmahdhy.github.io/Realtime-chat-app/
 
-Backend API is hosted on Render:🔗 https://realtime-chat-app-x62x.onrender.com
+Backend API is hosted on Render : 🔗 https://realtime-chat-app-x62x.onrender.com
 
 💬 How to Use
 
