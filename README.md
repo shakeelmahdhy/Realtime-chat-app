@@ -6,7 +6,7 @@ A simple real-time chat application built with FastAPI and WebSockets.
 
 🔗 Chat App(Replace with your actual deployed frontend link.)
 
-Backend API is hosted on Render:🔗 FastAPI WebSocket Server(Replace with your actual Render URL.)
+Backend API is hosted on Render:🔗 https://realtime-chat-app-x62x.onrender.com
 
 💬 How to Use
 
